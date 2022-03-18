@@ -4,8 +4,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/RosaleeKnight/pong)
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/pong.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/pong)
 
-# 🎮 Pong
-Pong game created in replit using pygame to test it out.
+# 🎮 Pong Clone
+Pong game clone I created in replit using pygame to test it out.
 
 -----
 # 💻 How to install 
@@ -13,4 +13,4 @@ Installation not required.
 
 -----
 # ❔ How to use
-Live at: https://replit.com/@RosaleeKnight/Pong?v=1
+Live at: https://replit.com/@RosaleeKnight/Pong-Clone?v=1
